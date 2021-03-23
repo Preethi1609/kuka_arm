@@ -1,5 +1,0 @@
-kuka_experimental/kuka_resources
-/home/artparkintern/catkin_ws/devel/.private/kuka_resources/cmake.lock /home/artparkintern/catkin_ws/devel/./cmake.lock
-/home/artparkintern/catkin_ws/devel/.private/kuka_resources/share/kuka_resources/cmake/kuka_resourcesConfig-version.cmake /home/artparkintern/catkin_ws/devel/share/kuka_resources/cmake/kuka_resourcesConfig-version.cmake
-/home/artparkintern/catkin_ws/devel/.private/kuka_resources/share/kuka_resources/cmake/kuka_resourcesConfig.cmake /home/artparkintern/catkin_ws/devel/share/kuka_resources/cmake/kuka_resourcesConfig.cmake
-/home/artparkintern/catkin_ws/devel/.private/kuka_resources/lib/pkgconfig/kuka_resources.pc /home/artparkintern/catkin_ws/devel/lib/pkgconfig/kuka_resources.pc

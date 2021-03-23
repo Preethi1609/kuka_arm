@@ -1,7 +1,0 @@
-kuka_experimental/kuka_eki_hw_interface
-/home/artparkintern/catkin_ws/devel/.private/kuka_eki_hw_interface/cmake.lock /home/artparkintern/catkin_ws/devel/./cmake.lock
-/home/artparkintern/catkin_ws/devel/.private/kuka_eki_hw_interface/share/kuka_eki_hw_interface/cmake/kuka_eki_hw_interfaceConfig-version.cmake /home/artparkintern/catkin_ws/devel/share/kuka_eki_hw_interface/cmake/kuka_eki_hw_interfaceConfig-version.cmake
-/home/artparkintern/catkin_ws/devel/.private/kuka_eki_hw_interface/share/kuka_eki_hw_interface/cmake/kuka_eki_hw_interfaceConfig.cmake /home/artparkintern/catkin_ws/devel/share/kuka_eki_hw_interface/cmake/kuka_eki_hw_interfaceConfig.cmake
-/home/artparkintern/catkin_ws/devel/.private/kuka_eki_hw_interface/lib/libkuka_eki_hw_interface.so /home/artparkintern/catkin_ws/devel/lib/libkuka_eki_hw_interface.so
-/home/artparkintern/catkin_ws/devel/.private/kuka_eki_hw_interface/lib/pkgconfig/kuka_eki_hw_interface.pc /home/artparkintern/catkin_ws/devel/lib/pkgconfig/kuka_eki_hw_interface.pc
-/home/artparkintern/catkin_ws/devel/.private/kuka_eki_hw_interface/lib/kuka_eki_hw_interface/kuka_eki_hw_interface_node /home/artparkintern/catkin_ws/devel/lib/kuka_eki_hw_interface/kuka_eki_hw_interface_node

@@ -1,5 +1,0 @@
-kuka_experimental/kuka_kr6_support
-/home/artparkintern/catkin_ws/devel/.private/kuka_kr6_support/cmake.lock /home/artparkintern/catkin_ws/devel/./cmake.lock
-/home/artparkintern/catkin_ws/devel/.private/kuka_kr6_support/share/kuka_kr6_support/cmake/kuka_kr6_supportConfig-version.cmake /home/artparkintern/catkin_ws/devel/share/kuka_kr6_support/cmake/kuka_kr6_supportConfig-version.cmake
-/home/artparkintern/catkin_ws/devel/.private/kuka_kr6_support/share/kuka_kr6_support/cmake/kuka_kr6_supportConfig.cmake /home/artparkintern/catkin_ws/devel/share/kuka_kr6_support/cmake/kuka_kr6_supportConfig.cmake
-/home/artparkintern/catkin_ws/devel/.private/kuka_kr6_support/lib/pkgconfig/kuka_kr6_support.pc /home/artparkintern/catkin_ws/devel/lib/pkgconfig/kuka_kr6_support.pc
