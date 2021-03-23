@@ -1,1 +1,0 @@
-/home/artparkintern/catkin_ws/devel/.private/kuka_moveit_config/share/kuka_moveit_config/cmake/kuka_moveit_configConfig-version.cmake

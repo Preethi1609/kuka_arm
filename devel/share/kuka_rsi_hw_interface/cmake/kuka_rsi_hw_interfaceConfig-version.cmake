@@ -1,1 +1,0 @@
-/home/artparkintern/catkin_ws/devel/.private/kuka_rsi_hw_interface/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig-version.cmake

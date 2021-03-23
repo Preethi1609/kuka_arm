@@ -1,1 +1,0 @@
-/home/artparkintern/catkin_ws/devel/.private/kuka_resources/lib/pkgconfig/kuka_resources.pc

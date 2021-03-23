@@ -1,1 +1,0 @@
-/home/artparkintern/catkin_ws/devel/.private/kuka_kr10_support/share/kuka_kr10_support/cmake/kuka_kr10_supportConfig.cmake
