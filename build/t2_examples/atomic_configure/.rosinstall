@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/artparkintern/catkin_ws/devel/.private/t2_examples/setup.sh

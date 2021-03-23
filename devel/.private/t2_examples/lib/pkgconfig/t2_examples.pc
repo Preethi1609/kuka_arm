@@ -1,0 +1,8 @@
+prefix=/home/artparkintern/catkin_ws/devel/.private/t2_examples
+
+Name: t2_examples
+Description: Description of t2_examples
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

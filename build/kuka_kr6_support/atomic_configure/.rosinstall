@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/artparkintern/catkin_ws/devel/.private/kuka_kr6_support/setup.sh

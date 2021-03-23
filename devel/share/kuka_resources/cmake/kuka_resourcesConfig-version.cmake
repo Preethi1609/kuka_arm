@@ -1,0 +1,1 @@
+/home/artparkintern/catkin_ws/devel/.private/kuka_resources/share/kuka_resources/cmake/kuka_resourcesConfig-version.cmake

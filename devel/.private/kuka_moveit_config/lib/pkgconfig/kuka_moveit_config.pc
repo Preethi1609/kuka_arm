@@ -1,0 +1,8 @@
+prefix=/home/artparkintern/catkin_ws/devel/.private/kuka_moveit_config
+
+Name: kuka_moveit_config
+Description: Description of kuka_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

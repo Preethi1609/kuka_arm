@@ -5,6 +5,7 @@ Panels:
     Property Tree Widget:
       Expanded:
         - /MotionPlanning1
+        - /MotionPlanning1/Scene Robot1
         - /MotionPlanning1/Planning Request1
       Splitter Ratio: 0.7425600290298462
     Tree Height: 293
@@ -222,7 +223,7 @@ Visualization Manager:
             Alpha: 1
             Show Axes: false
             Show Trail: false
-        Robot Alpha: 0.5
+        Robot Alpha: 0.8999999761581421
         Show Robot Collision: false
         Show Robot Visual: true
       Value: true

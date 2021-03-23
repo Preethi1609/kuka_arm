@@ -73,8 +73,8 @@ def simple_pick_place():
 
   ## Plan to the desired joint-space goal using the default planner (RRTConnect).
   robot1_plan_home = robot1_group.plan()
-  plan = robot1_group.go(wait=True)
-  robot1_group.stop()
+  ##plan = robot1_group.go(wait=True)
+  ##robot1_group.stop()
   ## Create a goal message object for the action server.
   robot1_goal = moveit_msgs.msg.ExecuteTrajectoryGoal()
   ## Update the trajectory in the goal message.
@@ -95,7 +95,7 @@ def simple_pick_place():
   ## ^^^^^^^^^^^^^^^
   ## You can plan a cartesian path directly by specifying a list of waypoints
   ## for the end-effector to go through.
-  waypoints = []
+  """ waypoints = []
   # start with the current pose
   current_pose = robot1_group.get_current_pose()
   rospy.sleep(0.5)
@@ -142,7 +142,7 @@ def simple_pick_place():
   robot1_goal.trajectory = robot1_plan_place
 
   robot1_client.send_goal(robot1_goal)
-  robot1_client.wait_for_result()
+  robot1_client.wait_for_result() """
   ## When finished shut down moveit_commander.
   moveit_commander.roscpp_shutdown()
 
